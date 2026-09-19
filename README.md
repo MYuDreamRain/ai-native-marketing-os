@@ -2,13 +2,15 @@
 
 **I run a marketing function where an AI agent is a full team member — not a chat window.**
 
-I'm Mengyu Wu, a marketing leader based in Singapore (Unilever → ByteDance/TikTok → Helpling APAC → Marketing Director at an AI startup). Over the past year I designed, deployed, and now operate a persistent AI co-worker that carries a real share of my marketing function: content production, social listening, event operations, inbox triage, and meeting prep.
+I'm Mengyu Wu, a marketing leader based in Singapore (Unilever → ByteDance/TikTok → Helpling APAC → Marketing Director at an AI startup). Over the past year I deployed a persistent AI agent (built on Zylos, an autonomous-agent platform — I didn't build the AI itself) and turned it into a co-worker that carries a real share of my marketing function: content production, social listening, event operations, inbox triage, and meeting prep.
 
-This repo documents that system — the architecture, the workflows, and the guardrails. Everything here is sanitized: no company data, no client names, no internal links.
+To be precise about what's mine and what isn't: the platform provides the raw capabilities — persistent memory, scheduling, multi-channel messaging. What I built on top is everything that makes those capabilities a functioning marketing team member: the workflows, the approval structures, the voice and taste standards, the guardrails, and a year of accumulated corrections that trained its judgment. That layer is what this repo documents.
+
+Everything here is sanitized: no company data, no client names, no internal links.
 
 ## Why this exists
 
-Most "AI marketing" is a person pasting prompts into a chatbot. What I built is different in kind:
+Most "AI marketing" is a person pasting prompts into a chatbot. What I run is different in kind:
 
 - **Persistent** — the agent has structured long-term memory (identity, active state, per-user profiles, decision logs). It remembers last month's decisions and this morning's corrections.
 - **Proactive** — a scheduler lets it act without being asked: inbox scans every 30 minutes, event radar, weekly retrospective chasing, deadline guards.
