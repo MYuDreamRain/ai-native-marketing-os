@@ -2,9 +2,9 @@
 
 **I run a marketing function where an AI agent is a full team member — not a chat window.**
 
-I'm Mengyu Wu, a marketing leader based in Singapore (Unilever → ByteDance/TikTok → Helpling APAC → Marketing Director at an AI startup). Over the past year I deployed a persistent AI agent (built on Zylos, an autonomous-agent platform — I didn't build the AI itself) and turned it into a co-worker that carries a real share of my marketing function: content production, social listening, event operations, inbox triage, and meeting prep.
+I'm Mengyu Wu, a marketing leader based in Singapore (Unilever → ByteDance/TikTok → Helpling APAC → Marketing Director at an AI startup). Over the past year I turned a persistent AI agent into a co-worker that carries a real share of my marketing function: content production, social listening, event operations, inbox triage, and meeting prep.
 
-To be precise about what's mine and what isn't: the platform provides the raw capabilities — persistent memory, scheduling, multi-channel messaging. What I built on top is everything that makes those capabilities a functioning marketing team member: the workflows, the approval structures, the voice and taste standards, the guardrails, and a year of accumulated corrections that trained its judgment. That layer is what this repo documents.
+This repo documents the layer that makes that possible — the workflows, approval structures, voice and taste standards, and guardrails I built and trained into it over a year of daily operation.
 
 Everything here is sanitized: no company data, no client names, no internal links.
 
