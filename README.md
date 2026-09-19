@@ -2,9 +2,9 @@
 
 **I run a marketing function where an AI agent is a full team member — not a chat window.**
 
-I'm Mengyu Wu, a marketing leader based in Singapore (Unilever → ByteDance/TikTok → Helpling APAC → Marketing Director at an AI startup). Over the past year I turned a persistent AI agent into a co-worker that carries a real share of my marketing function: content production, social listening, event operations, inbox triage, and meeting prep.
+I'm Mengyu Wu, a marketing leader based in Singapore (Unilever → ByteDance/TikTok → Helpling APAC → Marketing Director at an AI startup). Over the past three months I turned a persistent AI agent into a co-worker that carries a real share of my marketing function: content production, social listening, event operations, inbox triage, and meeting prep.
 
-This repo documents the layer that makes that possible — the workflows, approval structures, voice and taste standards, and guardrails I built and trained into it over a year of daily operation.
+This repo documents the layer that makes that possible — the workflows, approval structures, voice and taste standards, and guardrails I built and trained into it through months of daily operation.
 
 Everything here is sanitized: no company data, no client names, no internal links.
 

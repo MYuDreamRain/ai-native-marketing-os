@@ -25,4 +25,4 @@ Items that stay unfilled past the escalation ladder get surfaced as explicit clo
 
 ## Meeting prep (the field marketer's secret weapon)
 
-When a meeting invite lands in the inbox, the agent automatically: creates the calendar event, researches external attendees (role, company, recent activity, likely agenda), and delivers a prep package before the meeting — context, attendee backgrounds, suggested focus points. Walking into every external meeting already briefed, at zero marginal effort, compounds over a year of BD-heavy field marketing.
+When a meeting invite lands in the inbox, the agent automatically: creates the calendar event, researches external attendees (role, company, recent activity, likely agenda), and delivers a prep package before the meeting — context, attendee backgrounds, suggested focus points. Walking into every external meeting already briefed, at zero marginal effort, compounds fast in BD-heavy field marketing.
