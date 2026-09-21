@@ -1,4 +1,4 @@
-# System 6 — Event Marketing Operations
+# System 8 — Event Marketing Operations
 
 *Field marketing is a logistics business wearing a brand costume. The agent runs the logistics.*
 
@@ -9,7 +9,7 @@ A recurring scan finds relevant industry events (conferences, summits, trade wee
 Two features that turned out to matter more than discovery itself:
 
 - **Clash detection.** When multiple relevant events land in the same week across different cities, the radar surfaces the collision explicitly ("four cities, Sep 21–23 — who goes where?") instead of letting it be discovered in week-of panic.
-- **Write/review separation.** Radar output that writes to shared calendars passes a reviewer check first — the same auditability pattern used for [published content](03-anti-ai-voice-gate.md).
+- **Write/review separation.** Radar output that writes to shared calendars passes a reviewer check first — the same auditability pattern used for [published content](04-taste-gate.md).
 
 ## Deadline guards
 

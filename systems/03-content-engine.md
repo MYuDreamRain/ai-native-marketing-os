@@ -1,4 +1,4 @@
-# System 2 — The Content Engine
+# System 3 — The Content Engine
 
 *From "I saw something interesting" to published post, with humans only at the judgment points.*
 
@@ -16,7 +16,7 @@ capture ──► context bank ──► topic mining ──► draft ──► 
 
 **Drafting.** The agent drafts platform-native versions (a long-form newsletter section is not a LinkedIn post is not a carousel script). Platform grammar is encoded per channel: hook conventions, length norms, CTA placement.
 
-**Review.** Every draft passes the [anti-AI-voice gate](03-anti-ai-voice-gate.md) before a human ever sees it — reviewer time is spent on substance, not on fixing robotic phrasing.
+**Review.** Every draft passes the [taste gate](04-taste-gate.md) before a human ever sees it — reviewer time is spent on substance, not on fixing robotic phrasing.
 
 **Approval.** Nothing publishes without an explicit human "approved" per piece. The approval request is designed for a busy exec: the draft, a one-line summary of what changed since last round, and a single decision to make.
 
@@ -35,5 +35,5 @@ The same pipeline runs several lanes in parallel with different cadences and dif
 
 Content engines are usually judged on volume. Wrong lens. The two numbers I manage are:
 
-1. **Approval-to-publish latency** — how long a finished draft waits for a human decision. This is where throughput actually dies, which is why the [decision board](05-decision-board.md) exists.
+1. **Approval-to-publish latency** — how long a finished draft waits for a human decision. This is where throughput actually dies, which is why the [decision board](../decision-board.md) exists.
 2. **Revision depth per piece** — how many correction rounds before approval. Every correction becomes a standing rule (see the correction loop in [System 1](01-operating-model.md)), so this number trends down per lane over time.
