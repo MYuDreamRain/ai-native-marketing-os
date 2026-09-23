@@ -49,13 +49,22 @@ The deepest layer, and the one no detector even attempts:
 - **Open loops close.** Curiosity gaps are fuel, with a quota. And every loop opened must close before the piece ends, or the reader stops trusting the writer's hooks.
 - **Endings echo, never inflate.** Returning to a concrete object from the opening works; a closing sentence that introduces a new abstraction (meaning, the future, an era) gets deleted, and the piece ends on its last real point.
 
+## The recalibration — when passing the gate became the tell
+
+The gate itself gets corrected, and the hardest correction came late: a draft that passed every layer above still read as machine-made. The fault wasn't a banned construction; it was that *every line was polished and load-bearing*. Written tidiness — no rough edges, every sentence earning its place, uniform density — turned out to be an AI fingerprint of its own, invisible to any checklist because each individual sentence is fine.
+
+Two mechanisms came out of that incident:
+
+- **The read-aloud test against a human anchor.** The final pass judges the draft against a reference the way a human ear would: a real transcript, a great speech, plain journalism. The register bar is prose that never performs — staged reveals, significance narration ("here's why this matters"), aphoristic beat-drops all fail, because staged writing dies when spoken. "Too tidy" is now a named failing verdict. Lint alone is never sufficient to pass.
+- **The human-source rule.** The human touch is sourced, never synthesized: before drafting anything substantive, the agent asks the piece's owner for lived material — what they saw, a real story, where they disagree. That answer becomes the center of the piece. No answer means lower ambition, stated in the plan; it never means fabricating texture.
+
 ## Enforcement — what makes this a system instead of advice
 
 ```
-draft agent ──► lint ──► reviewer agent (fresh context) ──► pass token ──► publish
+draft agent ──► lint ──► reviewer agent (fresh context) ──► read-aloud vs human anchor ──► pass token ──► publish
 ```
 
-- **Writer and gate are never the same instance.** The reviewer judges the text cold, without the drafting conversation, the way a reader would. Longer outbound pieces are blocked at the transport layer without a valid reviewer token: a hard gate in the pipeline, not a convention. I tried self-certification first: under deadline pressure it degraded to rubber-stamping every time.
+- **Writer and gate are never the same instance.** The reviewer judges the text cold, without the drafting conversation, the way a reader would — and reads the human anchor before the draft, so the ear is calibrated before judgment starts. Longer outbound pieces are blocked at the transport layer without a valid reviewer token: a hard gate in the pipeline, not a convention. I tried self-certification first: under deadline pressure it degraded to rubber-stamping every time.
 - **A mechanical lint runs first**, catching the grep-able layer (banned constructions, leaked citation markup, formatting violations) so the reviewer spends its judgment on judgment.
 - **Voice files.** Each publishing voice has a profile built from that person's real writing, and the profile updates when the person edits a draft — their edits are ground truth, outranking every generic rule.
 - **Taste memory.** Every element the owner has ever rejected (a hook style, a phrasing device, a structure) lives in a registry that each new draft is checked against. Rejections are cumulative spec: killed once means killed in every future version.

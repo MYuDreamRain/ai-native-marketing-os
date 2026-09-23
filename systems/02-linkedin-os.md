@@ -12,9 +12,9 @@ strategy bible ──► weekly topic slate ──► draft (in my voice) ──
       └───────────────── weekly intel scan + "what worked" review ◄────────────────────────────────────────────┘
 ```
 
-**One bible, versioned.** Positioning, audience, three pillars with fixed weightings, cadence, voice constraints, banned moves: one document the agent reads before every draft. Change strategy once; every future draft inherits it. No strategy that lives in chat history survives a month. This one is two months old and on its third major revision.
+**One bible, versioned.** Positioning, audience, four pillars with fixed weightings, cadence, voice constraints, banned moves: one document the agent reads before every draft. Change strategy once; every future draft inherits it. No strategy that lives in chat history survives a month. This one is three months old and on its fourth major revision — the most recent one added a fourth pillar, an analysis lane the market research argued for, and rebalanced the weightings across the whole slate. The feedback loop below doesn't decorate the bible; it rewrites it.
 
-**Fixed cadence, pillar-weighted.** Four posts a week, allocated across pillars by percentage. The weighting is a portfolio decision made once, not a weekly debate. The agent proposes the slate against the quota; I reorder or veto.
+**Fixed cadence, pillar-weighted.** Four posts a week, allocated across pillars by percentage. The weighting is a portfolio decision made once, not a weekly debate. The agent proposes the slate against the quota; I reorder or veto. Analysis pillars carry an evidence standard the draft is checked against before it reaches me: a primary-source figure, one first-hand observation only the author could supply, zero unsourced round numbers.
 
 **Constraints as spec.** Standing rules written in enforceable form: no manifesto voice, no engagement-bait hooks, every post must survive the "would I say this to a colleague's face" test. A rule the agent can't check mechanically isn't a rule yet; it's a future incident (see [the rulebook](../rulebook.md)).
 

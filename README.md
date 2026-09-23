@@ -16,7 +16,7 @@ Five files carry most of the signal. In order:
 2. [The Decision Board](decision-board.md) — approval as a designed product; read "The design rules"
 3. [The Field-Marketing Ops Kit](field-marketing-ops-kit.md) — ~35 event workstreams, two markets, 90 days; skim the AAR protocol
 4. [The Outcomes Ledger](outcomes.md) — every number labeled measured / counted / directional, with what's deliberately excluded
-5. [The Taste Gate](systems/04-taste-gate.md) — the three-layer editorial system that holds quality at machine throughput
+5. [The Taste Gate](systems/04-taste-gate.md) — the three-layer editorial system, closed by a read-aloud register check, that holds quality at machine throughput
 
 ## Why this exists
 
@@ -48,7 +48,7 @@ Ordered from strategy to execution: how the organization runs, what the brand sa
 | 1 | [Operating model](systems/01-operating-model.md) | Memory architecture, scheduling, multi-channel routing: how an AI agent becomes a durable team member |
 | 2 | [Executive LinkedIn OS](systems/02-linkedin-os.md) | A personal LinkedIn presence run as an operating system: one versioned strategy bible, fixed cadence, feedback that rewrites the strategy |
 | 3 | [Content engine](systems/03-content-engine.md) | Idea capture → topic mining → drafting → human-voice review → approval → publish, across platforms |
-| 4 | [Taste gate](systems/04-taste-gate.md) | The three-layer editorial system (tells → craft → story) that holds publishing quality at machine throughput |
+| 4 | [Taste gate](systems/04-taste-gate.md) | The three-layer editorial system (tells → craft → story), closed by a read-aloud check against human-anchored prose |
 | 5 | [Creative ops pipeline](systems/05-creative-ops.md) | Visuals as code: brand rules enforced from a spec file, and the agent reviews its own render before delivery |
 | 6 | [Social listening engine](systems/06-social-listening-engine.md) | Market-wide signal scanning with a FLAG / ENGAGE / MONITOR triage and an approval-gated auto-poster |
 | 7 | [Social selling pipeline](systems/07-social-selling.md) | A named list of prospects and partners, engaged one approved touch at a time: staged plays, per-relationship memory, zero autonomous posting |
@@ -61,7 +61,7 @@ Ordered from strategy to execution: how the organization runs, what the brand sa
 1. **The bottleneck moves from production to judgment.** When drafting is nearly free, the scarce resources are taste, approval bandwidth, and knowing what *not* to publish. Half the systems here exist to protect those.
 2. **Autonomy must be earned per-task, not granted globally.** Publishing needs approval gates; inbox triage doesn't. Mapping that boundary, and encoding it as rules the agent enforces on itself, is the core management skill of the next decade.
 3. **Memory design is the real product.** An agent without structured memory relearns your preferences every session. The tiered memory model (always-loaded identity/state vs. on-demand reference files) is what makes corrections stick.
-4. **Scrubbing AI tells is QA; good writing is the real bar.** A review pass with named tells ("not X, but Y" constructions, em-dash chains, hedge stacking) reliably catches what the drafting pass can't see about itself — that half is mechanical. But scrubbed only gets a text to neutral, and neutral doesn't earn a read. The standards that raise the ceiling are positive: a stance someone could argue with, details only this author could supply, sentences that buy the next one. Rules about what not to do cap the damage; rules about what to do are the editorial system.
+4. **Scrubbing AI tells is QA; good writing is the real bar.** A review pass with named tells ("not X, but Y" constructions, em-dash chains, hedge stacking) reliably catches what the drafting pass can't see about itself — that half is mechanical. But scrubbed only gets a text to neutral, and neutral doesn't earn a read. The standards that raise the ceiling are positive: a stance someone could argue with, details only this author could supply, sentences that buy the next one. Rules about what not to do cap the damage; rules about what to do are the editorial system. The latest lesson cut deepest: uniform polish is itself a tell — a draft where every line is tidy and load-bearing fails a read-aloud test against real human prose, which is why the gate now ends with one.
 
 ## Contact
 

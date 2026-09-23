@@ -31,6 +31,10 @@ The same pipeline runs several lanes in parallel with different cadences and dif
 - An employee-advocacy lane: drafts prepared *for* team members to post under their own names, each requiring that person's approval
 - Platform-specific series (carousels, short video scripts) with visual briefs handed to design
 
+## The tooling decision
+
+The engine's working surface — draft board, content calendar, idea bank, post archive with performance backfill — is purpose-built rather than adopted. The deciding question wasn't features; it was *who operates the tool daily*. Off-the-shelf workspace tools are designed for human editors; here the agent is the day-to-day operator (drafting, status moves, filing, analytics pulls), and the human touches the system at judgment points. So the tool is built to the agent's shape: every state change is scriptable, the board shows whose court each piece is in, and analytics land in the same archive the next topic-mining pass reads. Build-versus-buy, decided by operator, not by feature list.
+
 ## The two numbers that matter
 
 Content engines are usually judged on volume. Wrong lens. The two numbers I manage are:
