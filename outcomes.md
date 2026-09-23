@@ -1,10 +1,16 @@
 # The Outcomes Ledger
 
-*Every number here carries a label saying how much to trust it. The label is the deliverable.*
+- **Replaced the external PR agency with an internal AI-run media function — cut that budget line by ~95%.** · measured
+- **Worst inbox miss on record: 15 days unanswered. Now: every shared-inbox email triaged within 30 minutes, routed to the right owner.** · measured
+- **~90 concurrent project workstreams — ~35 of them event workstreams — sustained over 90 days. Zero added headcount.** · counted
+- **Client-specific interactive sales demo: from brief to a live, shareable web app in one working afternoon.** What used to be a multi-week design request. · measured
+- **Zero to 50+ standing voice-quality rules in 90 days — and the named machine tells stopped recurring in gated output.** · counted / directional
+- **~2,000 messages across 4 working channels compiled into a sourced retrospective — 21 problems, 12 highlights — in about a day.** · counted
+- **Revision depth per piece trending down, lane after lane.** The number that says taste is compounding, not just volume. · directional
 
-Marketing case studies inflate. The mechanism is well known: a directional guess gets quoted once, loses its hedge in the retelling, and arrives in the deck as a measured fact. One of the standing rules in this system's rulebook is that epistemic status must survive every rewrite: an ambiguous number stays marked ambiguous, never silently resolved to the convenient reading. This ledger applies that rule to my own claims.
+Every line above carries a trust label. That's the part marketing case studies skip — a directional guess gets quoted once, loses its hedge in the retelling, and arrives in the deck as a measured fact. One of this system's standing rules is that epistemic status must survive every rewrite. This ledger applies that rule to my own claims.
 
-Three labels:
+## The labels
 
 - **measured**: a before/after I can produce records for
 - **counted**: tallied from the system's own logs; exact within its stated unit
@@ -12,17 +18,17 @@ Three labels:
 
 Company-confidential figures (revenue, pipeline, client names, budgets) are excluded entirely rather than anonymized, because a disguised number still leaks shape.
 
-## The ledger
+## Attribution — what actually caused each result
 
-| # | Outcome | Label | Attribution: what actually caused it |
-|---|---------|-------|----------------------------------------|
-| 1 | PR function internalized: replaced the external agency with an internal AI-run media function, cutting that budget line by roughly 95% | **measured** (budget line, before/after) | The structural call and its risk were mine; the agent does the daily work: knowledge base, pitch drafting, media-list upkeep. The savings number is the agency fee versus marginal agent cost; it does not price my supervision time, which is real but small. |
-| 2 | Shared-inbox response latency: from days (worst recorded miss: 15 days unanswered) to same-half-hour triage with team-aware routing | **measured** (the miss is on record; the 30-minute scan interval is config) | Almost entirely the agent. My contribution was the routing table (who gets what class of email) and the escalation rules. |
-| 3 | ~90 concurrent project workstreams, including ~35 event workstreams, in 90 days, zero added headcount | **counted** (from project logs; a workstream is a logged project entry, and they vary widely in size) | Shared. The agent multiplied throughput; I supplied every go/no-go and quality verdict. Honest note: the count proves *concurrency at sustained quality bar*, not that each workstream equals a human-week. |
-| 4 | Client-specific interactive demo: from brief to a live, shareable web demo inside one working afternoon | **measured** (specific instances, timestamped; not an average) | Agent built; I set the scenario and killed the off-positioning use case in review. Cycle time is the story: this class of sales asset used to be a multi-week design request. |
-| 5 | Voice-quality rulebook: zero to 50+ standing entries in 90 days; the named machine tells stopped recurring in gated output | **counted** (rulebook entries) / **directional** (recurrence decline: visible in review passes, not formally instrumented) | The rules encode my corrections; the agent built the linter and review gate that enforce them. |
-| 6 | Event retrospective input: ~2,000 messages across 4 working channels compiled into a structured evidence document (21 problems, 12 highlights, sourced quotes) in about a day | **counted** (single flagship event; the method has since been reused) | Agent swept and compiled; the three-layer retro framework and the open-ended-questionnaire correction were mine. |
-| 7 | Content-lane quality trajectory: revision depth per piece trending down across successive pieces in the same lane | **directional** | This is the metric I chose to manage instead of volume — approval-to-publish latency and revision depth measure whether taste is compounding. The trend is visible per lane; I have not built the dashboard that would make it a measured claim. |
+| # | Result | Label | Who/what did it |
+|---|--------|-------|-----------------|
+| 1 | PR budget line cut ~95% | **measured** (budget line, before/after) | The structural call and its risk were mine; the agent does the daily work: knowledge base, pitch drafting, media-list upkeep. The savings number is the agency fee versus marginal agent cost; it does not price my supervision time, which is real but small. |
+| 2 | Inbox latency: days → same-half-hour | **measured** (the 15-day miss is on record; the 30-minute scan interval is config) | Almost entirely the agent. My contribution was the routing table (who gets what class of email) and the escalation rules. |
+| 3 | ~90 workstreams, 90 days, no added headcount | **counted** (from project logs; a workstream is a logged project entry, and they vary widely in size) | Shared. The agent multiplied throughput; I supplied every go/no-go and quality verdict. Honest note: the count proves *concurrency at sustained quality bar*, not that each workstream equals a human-week. |
+| 4 | Demo in an afternoon | **measured** (specific instances, timestamped; not an average) | Agent built; I set the scenario and killed the off-positioning use case in review. Cycle time is the story. |
+| 5 | 50+ voice rules; machine tells stopped recurring | **counted** (rulebook entries) / **directional** (recurrence decline: visible in review passes, not formally instrumented) | The rules encode my corrections; the agent built the linter and review gate that enforce them. |
+| 6 | 2,000 messages → structured retro in a day | **counted** (single flagship event; the method has since been reused) | Agent swept and compiled; the three-layer retro framework and the open-ended-questionnaire correction were mine. |
+| 7 | Revision depth trending down | **directional** | This is the metric I chose to manage instead of volume — approval-to-publish latency and revision depth measure whether taste is compounding. The trend is visible per lane; I have not built the dashboard that would make it a measured claim. |
 
 ## What's deliberately not here
 
@@ -32,4 +38,4 @@ Company-confidential figures (revenue, pipeline, client names, budgets) are excl
 
 ## Why the labels are the point
 
-Any of these rows, stripped of its label and attribution note, would read better. That's the tell. A team that runs AI at production scale generates numbers constantly, and the discipline that keeps those numbers decision-grade is the same discipline that keeps published copy honest: hedges are part of the fact. If I'm going to claim that I built quality gates into an AI-run marketing function, the claims about the function have to pass through one too.
+Any of these results, stripped of its label and attribution note, would read better. That's the tell. If I'm going to claim I built quality gates into an AI-run marketing function, the claims about the function have to pass through one too.

@@ -10,14 +10,13 @@ Everything here is sanitized: no company data, no client names, no internal link
 
 ## If you only have three minutes
 
-Six files carry most of the signal. In order:
+Five files carry most of the signal. In order:
 
 1. [The Rulebook](rulebook.md) — the correction protocol and four before/after corrections; the shortest path to how I manage an AI teammate
 2. [The Decision Board](decision-board.md) — approval as a designed product; read "The design rules"
-3. [The Field-Marketing Ops Kit](field-marketing-ops-kit.md) — ~35 event workstreams, two markets, 90 days; skim the AAR protocol
-4. [Event marketing ops](systems/08-event-ops.md) — the machinery under the ops kit: event radar, clash detection, deadline guards, retrospectives that chase their own data
-5. [The Outcomes Ledger](outcomes.md) — every number labeled measured / counted / directional, with what's deliberately excluded
-6. [The Taste Gate](systems/04-taste-gate.md) — the three-layer editorial system, closed by a read-aloud register check, that holds quality at machine throughput
+3. [The Field-Marketing Ops Kit](field-marketing-ops-kit.md) — ~35 event workstreams, two markets, 90 days; skim the AAR protocol, then the machinery behind it: [systems/08](systems/08-event-ops.md)
+4. [The Outcomes Ledger](outcomes.md) — every number labeled measured / counted / directional, with what's deliberately excluded
+5. [The Taste Gate](systems/04-taste-gate.md) — the three-layer editorial system, closed by a read-aloud register check, that holds quality at machine throughput
 
 ## Why this exists
 
@@ -34,11 +33,11 @@ The part of this system no platform ships and no prompt library contains. Each i
 
 | Artifact | What it is |
 |----------|------------|
+| [The Outcomes Ledger](outcomes.md) | The numbers, each labeled with how much to trust it: measured / counted / directional, with what's deliberately excluded |
 | [The Governance Charter](guardrails.md) | The constitution I wrote before the agent got autonomy: identity rules, channel firewalls, approval gates scoped by irreversibility, and the incident → rule pipeline |
 | [The Rulebook](rulebook.md) | How I compile my judgment into an enforced spec: the correction protocol, the standing rules it produced, and four before/after corrections |
 | [The Decision Board](decision-board.md) | Approval is the bottleneck; I made it a product: a designed surface for the scarcest resource in an AI-augmented org |
 | [The Field-Marketing Ops Kit](field-marketing-ops-kit.md) | ~35 event workstreams, two markets, 90 days: event radar, go/no-go discipline, deadline guards, and retrospectives that chase their own data |
-| [The Outcomes Ledger](outcomes.md) | The numbers, each labeled with how much to trust it: measured / counted / directional, with what's deliberately excluded |
 
 ## The systems underneath
 
