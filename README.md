@@ -54,6 +54,7 @@ Ordered from strategy to execution: how the organization runs, what the brand sa
 | 7 | [Social selling pipeline](systems/07-social-selling.md) | A named list of prospects and partners, engaged one approved touch at a time: staged plays, per-relationship memory, zero autonomous posting |
 | 8 | [Event marketing ops](systems/08-event-ops.md) | The mechanics under the ops kit: radar, clash detection, deadline guards, retro chasing |
 | 9 | [Inbound response ops](systems/09-inbound-response-ops.md) | Shared-inbox triage with team-aware lead routing: minutes to routed, same-day to answered |
+| 10 | [PR & media engine](systems/10-pr-media-engine.md) | Daily news radar with a comment / hook / pitch taxonomy, journalist matching, and a weekly competitive scan — zero autonomous outreach |
 
 ## What I actually learned
 
