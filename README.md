@@ -12,10 +12,10 @@ Everything here is sanitized: no company data, no client names, no internal link
 
 Five files carry most of the signal. In order:
 
-1. [The Rulebook](rulebook.md) — the correction protocol and four before/after corrections; the shortest path to how I manage an AI teammate
-2. [The Decision Board](decision-board.md) — approval as a designed product; read "The design rules"
-3. [The Field-Marketing Ops Kit](field-marketing-ops-kit.md) — ~35 event workstreams, two markets, 90 days; skim the AAR protocol, then the machinery behind it: [systems/08](systems/08-event-ops.md)
-4. [The Outcomes Ledger](outcomes.md) — every number labeled measured / counted / directional, with what's deliberately excluded
+1. [The Outcomes Ledger](outcomes.md) — every number labeled measured / counted / directional, with what's deliberately excluded
+2. [The Rulebook](rulebook.md) — the correction protocol and four before/after corrections; the shortest path to how I manage an AI teammate
+3. [The Decision Board](decision-board.md) — approval as a designed product; read "The design rules"
+4. [The Field-Marketing Ops Kit](field-marketing-ops-kit.md) — ~35 event workstreams, two markets, 90 days; skim the AAR protocol, then the machinery behind it: [systems/08](systems/08-event-ops.md)
 5. [The Taste Gate](systems/04-taste-gate.md) — the three-layer editorial system, closed by a read-aloud register check, that holds quality at machine throughput
 
 ## Why this exists
